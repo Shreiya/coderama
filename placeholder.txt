@@ -1,0 +1,12 @@
+usually all programs are interactive. There's a setup and then everything runs in a loop until you tell it to stop.
+
+Python the other hand is non interactive/linear. Used for cleaning data sets etc. It's a program that takes in commands and has a set output.
+Can also be used creatively to manipulate text.
+
+
+Syntax indentation SUPER important n python
+Punctuation don't matter at all
+
+Variables do have types. but it has no words to announce what you're going to be doing.
+
+In python, arrays are called lists
